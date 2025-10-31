@@ -4,7 +4,7 @@
 #!system = iOS,iPadOS,tvOS,macOS
 #!system_version = 
 #!loon_version = 3.3.2(877)
-#!homepage = https://github.com/Tartarus2014/Loon-Script/blob/master/Plugin/Q-Search_All_in_one.md
+#!homepage = https://github.com/ricardios/loon-remote/blob/main/plugins/qsearch.md
 
 [Rewrite]
 # wiki xxx (Wikipedia)
